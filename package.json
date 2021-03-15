@@ -1,0 +1,12 @@
+{
+  "name": "InputFileElectronTest",
+  "version": "1.0.0",
+  "description": "Input file electron test",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "devDependencies": {
+    "electron": "10.1.5"
+  }
+}
